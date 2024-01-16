@@ -1,0 +1,27 @@
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.deps.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.runtimeconfig.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.runtimeconfig.dev.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.AssemblyReference.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfoInputs.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfo.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.CoreCompileInputs.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.genruntimeconfig.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.deps.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.runtimeconfig.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.runtimeconfig.dev.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.AssemblyReference.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfoInputs.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.AssemblyInfo.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.csproj.CoreCompileInputs.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.sourcelink.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\netcoreapp3.1\Sprout.Exam.DataAccess.genruntimeconfig.cache

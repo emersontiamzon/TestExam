@@ -92,3 +92,208 @@ C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug
 C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Business.pdb
 C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Common.dll
 C:\Users\jhernandez\source\repos\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\appsettings.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.StaticWebAssets.xml
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.exe
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.deps.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.runtimeconfig.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.runtimeconfig.dev.json
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.Views.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.Views.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Autofac.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\AutoMapper.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Humanizer.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityModel.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Business.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Common.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.DataAccess.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.DataAccess.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.csproj.AssemblyReference.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.AssemblyInfoInputs.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.AssemblyInfo.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.csproj.CoreCompileInputs.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorAssemblyInfo.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorAssemblyInfo.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.TagHelpers.input.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.TagHelpers.output.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorCoreGenerate.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorTargetAssemblyInfo.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorTargetAssemblyInfo.cs
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.Views.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\scopedcss\bundle\Sprout.Exam.WebApp.styles.css
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\Sprout.Exam.WebApp.StaticWebAssets.Manifest.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\Sprout.Exam.WebApp.StaticWebAssets.Pack.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.Sprout.Exam.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.build.Sprout.Exam.WebApp.props
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Sprout.Exam.WebApp.props
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Sprout.Exam.WebApp.props
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\Sprout.Exam.WebApp.StaticWebAssets.xml
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.csproj.CopyComplete
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\refint\Sprout.Exam.WebApp.dll
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.pdb
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.genruntimeconfig.cache
+D:\Workspace\Tutorials\Software Engineering Exam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\ref\Sprout.Exam.WebApp.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\appsettings.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.StaticWebAssets.xml
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.exe
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.deps.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.runtimeconfig.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.runtimeconfig.dev.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.Views.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.WebApp.Views.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Autofac.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\AutoMapper.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Humanizer.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityModel.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Business.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Common.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.DataAccess.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\bin\Debug\net5.0\Sprout.Exam.DataAccess.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.csproj.AssemblyReference.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.AssemblyInfoInputs.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.AssemblyInfo.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.csproj.CoreCompileInputs.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorAssemblyInfo.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorAssemblyInfo.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.sourcelink.json
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.TagHelpers.input.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.TagHelpers.output.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorCoreGenerate.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorTargetAssemblyInfo.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.RazorTargetAssemblyInfo.cs
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.Views.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\scopedcss\bundle\Sprout.Exam.WebApp.styles.css
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\Sprout.Exam.WebApp.StaticWebAssets.Manifest.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\Sprout.Exam.WebApp.StaticWebAssets.Pack.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.Sprout.Exam.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.build.Sprout.Exam.WebApp.props
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Sprout.Exam.WebApp.props
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Sprout.Exam.WebApp.props
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\staticwebassets\Sprout.Exam.WebApp.StaticWebAssets.xml
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.csproj.CopyComplete
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\refint\Sprout.Exam.WebApp.dll
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.pdb
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\Sprout.Exam.WebApp.genruntimeconfig.cache
+D:\GitHub\Personals\Tutorials\TestExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\obj\Debug\net5.0\ref\Sprout.Exam.WebApp.dll
